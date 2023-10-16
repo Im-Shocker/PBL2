@@ -1,0 +1,14 @@
+NO.01, 1/1/2022, 101, Bui The Cuong, 102220229, Nguyen Trung Hieu,
+IP100, iPhone 11,1,3110,10,
+2799
+NO.02, 2/2/2023, 103, Le Huan, 102220229, Nguyen Trung Hieu,
+SS100, Samsung Galaxy A23,1,5000,5
+XR100, Xiaomi Redmi 12C,1,5000,30,
+8250
+NO.03, 3/4/2021, 104, Tran Huy, 102220200, Le Na,
+SS101, Samsung Galaxy A14 4G,1,5000,10
+RM106, Realme C55,1,5000,19,
+8550
+NO.04, 1/2/2023, 101, Bui The Cuong, 102220220, Nguyen Van A,
+RM105, Realme C30s, 2, 5000, 2,
+9800
