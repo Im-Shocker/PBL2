@@ -1,4 +1,0 @@
-102220229, Nguyen Trung Hieu, 0349940070, QB, Nam, 27/10/2004, nguyentrunghieu271004@gmail.com,10000000
-102220220, Nguyen Van A, 0123456789, HT, Nam, 2/10/2000, nguyenvana12@gmail.com,7000000
-102220200, Le Na, 0981234567, Quang Nam, Nu, 1/1/1999, lena123@gmail.com,5000000
-102220201, Tran Hoa, 0988123456, Da Nang, Nu, 9/10/1998, tranhoa123@gmail.com, 12000000
