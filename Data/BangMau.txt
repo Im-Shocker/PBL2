@@ -1,0 +1,6 @@
+5
+1. Do,
+2. Xanh,
+3. Vang,
+4. Den,
+5. Trang
